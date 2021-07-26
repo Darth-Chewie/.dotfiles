@@ -1,10 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
-let g:netrw_dirhist_8='/home/javier'
-let g:netrw_dirhist_7='/home/javier/Downloads'
-let g:netrw_dirhist_6='/home/javier/.dotfiles/Nord/.themes'
-let g:netrw_dirhist_5='/home/javier/.dotfiles/Nord'
-let g:netrw_dirhist_4='/home/javier/.dotfiles/Nord/Nordic'
-let g:netrw_dirhist_3='/home/javier/.dotfiles/Nord'
-let g:netrw_dirhist_2='/home/javier/.dotfiles'
-let g:netrw_dirhist_1='/home/javier/.dotfiles/alacritty/.config/alacritty'
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/javier/.dotfiles/nvim/.config/nvim/colors'
+let g:netrw_dirhist_3='/home/javier/.dotfiles/nvim/.config/nvim'
+let g:netrw_dirhist_2='/home/javier/.dotfiles/nvim/.config'
+let g:netrw_dirhist_1='/home/javier/.dotfiles/nvim'
